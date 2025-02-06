@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "output-dir: docs/about.html",
+    "href": "output-dir: docs/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "output-dir: docs/index.html",
+    "href": "output-dir: docs/index.html",
+    "title": "LouisaJade",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LouisaJade.github.io",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nhello this is my website i am so confused\nnever edit website outside of quarto yml"
+  }
+]
