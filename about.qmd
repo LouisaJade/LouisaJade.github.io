@@ -2,8 +2,10 @@
 title: "About"
 ---
 
-About this site
+My biggest interest is the ocean and all things marine science, though I also love our Rocky Mountains and will do anything to get outside anywhere. My plans for furthering my education currently include pursuing a masters in marine conservation after a two year gap year to save some money and gain some internship experience in the marine sector. Someday I hope to be doing anything and everything I can to protect the ocean and all it's inhabitants.
 
-```{r}
-1 + 1
-```
+![Scuba diving the Great Barrier Reef (Summer 2024)](images/Screenshot%202024-12-06%20at%208.31.11%20PM.png)
+
+This last summer I had the opportunity to do some research in Ningaloo Reef, Western Australia. I learned about new marine field techniques that included snorkeling along transects, dropping quadrats and taking photos. I was also introduced to the world of coding using Primer7. I hope to go back and potentially pursue my masters somewhere in Australia. I also got to hold a koala!
+
+![](images/C83989BD-F1BA-4FE9-AAC6-6BD01885AC2A_1_105_c.jpeg)

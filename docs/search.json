@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LouisaJade.github.io",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nhello this is my website i am so confused\nnever edit website outside of quarto yml\ndont mess with the docs studio\nadd - commit - push then render moves everything to github\njaque office hours tuesday 12:45-whenever"
   },
   {
     "objectID": "output-dir: docs/about.html",
@@ -21,10 +21,38 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "My biggest interest is the ocean and all things marine science, though I also love our Rocky Mountains and will do anything to get outside anywhere. My plans for furthering my education currently include pursuing a masters in marine conservation after a two year gap year to save some money and gain some internship experience in the marine sector. Someday I hope to be doing anything and everything I can to protect the ocean and all it’s inhabitants.\n\n\n\nScuba diving the Great Barrier Reef (Summer 2024)\n\n\nThis last summer I had the opportunity to do some research in Ningaloo Reef, Western Australia. I learned about new marine field techniques that included snorkeling along transects, dropping quadrats and taking photos. I was also introduced to the world of coding using Primer7. I hope to go back and potentially pursue my masters somewhere in Australia. I also got to hold a koala!"
+  },
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Spring 2023\n\nOregon State University - Intro to Entomology\nIn the spring of 2023 I took a class on entomology at Oregon State University. The final project was a creative website on an insect related to our major. My major at the time was marine biology and there are very few marine insects so I settled on one particular insect with little to no previous research done.\nEchthrodesis lamorali: Intertidal Parasitoid Wasp\n\n\n\nSpring 2024\n\nColorado State University - CO 301B - Writing in the Disciplines: Sciences\nIn the spring of 2024 I took a class at Colorado State University that focused on various forms of scientific writing. The final project was a creative personal website to showcase different forms of presenting scientific information. This website also includes a link to access my previous entomology website.\nPersonal Website"
+  },
+  {
+    "objectID": "Home.html",
+    "href": "Home.html",
     "title": "LouisaJade.github.io",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nhello this is my website i am so confused\nnever edit website outside of quarto yml"
+    "text": "Louisa Jade Beckett\nHello, my name is Louisa Beckett, but I go by my middle name Jade. This is my personal website where I will share some information about myself, my personal experiences, and career goals. I am currently in my last year at CSU studying Ecosystem Science and Sustainability. I have some experience in field techniques and GIS. Please explore this website to learn more about me!"
+  },
+  {
+    "objectID": "Resume.html",
+    "href": "Resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "It appears you don’t have a PDF plugin for this browser. No worries… you can click here to download the PDF file."
+  },
+  {
+    "objectID": "Resume.html#resume",
+    "href": "Resume.html#resume",
+    "title": "Resume",
+    "section": "",
+    "text": "It appears you don’t have a PDF plugin for this browser. No worries… you can click here to download the PDF file."
   }
 ]

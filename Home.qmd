@@ -1,0 +1,21 @@
+---
+title: "LouisaJade.github.io"
+image: media/Headshot.jpeg
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 18em
+  links:
+  - text: LinkedIn
+    href: https://www.linkedin.com/in/louisa-jade-beckett-a348ab285/
+  - text: GitHub
+    href: https://github.com/LouisaJade
+  - text: University Email
+    href: mailto:beckettl@colostate.edu
+  - text: Personal Email
+    href: mailto:beckett.louisa04@gmail.com
+---
+
+Louisa Jade Beckett
+
+Hello, my name is Louisa Beckett, but I go by my middle name Jade. This is my personal website where I will share some information about myself, my personal experiences, and career goals. I am currently in my last year at CSU studying Ecosystem Science and Sustainability. I have some experience in field techniques and GIS. Please explore this website to learn more about me!
