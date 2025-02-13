@@ -1,5 +1,6 @@
 ---
 title: "About"
+format: html
 ---
 
 My biggest interest is the ocean and all things marine science, though I also love our Rocky Mountains and will do anything to get outside anywhere. My plans for furthering my education currently include pursuing a masters in marine conservation after a two year gap year to save some money and gain some internship experience in the marine sector. Someday I hope to be doing anything and everything I can to protect the ocean and all it's inhabitants.

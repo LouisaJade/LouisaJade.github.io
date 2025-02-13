@@ -18,7 +18,7 @@ format:
     css: styles.css
     toc: true
     toc-location: right
-    fontcolor: "#000000"
+    fontcolor: "#000001"
     linkcolor: "#0b40d9"
     
     
