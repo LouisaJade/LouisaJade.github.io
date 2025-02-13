@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "LouisaJade.github.io",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nhello this is my website i am so confused\nnever edit website outside of quarto yml\ndont mess with the docs studio\nadd - commit - push then render moves everything to github\njaque office hours tuesday 12:45-whenever"
+    "text": "Louisa Jade Beckett\nHello, my name is Louisa Beckett, but I go by my middle name Jade. This is my personal website where I will share some information about myself, my personal experiences, and career goals. I am currently in my last year at CSU studying Ecosystem Science and Sustainability. I have some experience in field techniques and GIS. Please explore this website to learn more about me!"
   },
   {
     "objectID": "output-dir: docs/about.html",
@@ -54,5 +54,33 @@
     "title": "Resume",
     "section": "",
     "text": "It appears you don’t have a PDF plugin for this browser. No worries… you can click here to download the PDF file."
+  },
+  {
+    "objectID": "LouisaJade.github.io/about.html",
+    "href": "LouisaJade.github.io/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "LouisaJade.github.io/output-dir: docs/about.html",
+    "href": "LouisaJade.github.io/output-dir: docs/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "LouisaJade.github.io/output-dir: docs/index.html",
+    "href": "LouisaJade.github.io/output-dir: docs/index.html",
+    "title": "LouisaJade",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "LouisaJade.github.io/index.html",
+    "href": "LouisaJade.github.io/index.html",
+    "title": "LouisaJade.github.io",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nhello this is my website i am so confused\nnever edit website outside of quarto yml"
   }
 ]

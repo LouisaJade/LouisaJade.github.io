@@ -6,7 +6,7 @@ website:
   title: "LouisaJade.github.io"
   navbar:
     left:
-      - href: Home.qmd
+      - href: index.qmd
         text: Home
       - about.qmd
       - Projects.qmd
