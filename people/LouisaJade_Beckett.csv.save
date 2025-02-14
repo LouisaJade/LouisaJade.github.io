@@ -1,0 +1,9 @@
+git add john_doe.csv
+git commit -m "Add john_doe.csv to people directory"
+git push origin main
+
+git remote -v
+
+origin  https://github.com/LouisaJade/LouisaJade.github.io.git (fetch)
+origin  https://github.com/LouisaJade/LouisaJade.github.io.git (push)
+git commit -m "Add git commit -m "Add Louisa
